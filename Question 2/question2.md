@@ -1,5 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 ## Question 2
 
 For equivalent networks, the rotation (multiplication of matrices $W^{(i)}$) and shifting (addition of bias $b^{i}$) must be the same.
